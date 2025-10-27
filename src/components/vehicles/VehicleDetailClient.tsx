@@ -31,7 +31,7 @@ export default function VehicleDetailClient({ vehicle }: { vehicle: Vehicle }) {
   const [selectedMedia, setSelectedMedia] = useState<VehicleImage | null>(null);
   const [isFormSubmitted, setIsFormSubmitted] = useState(false);
   
-  const phoneNumber = '+221774576421';
+  const phoneNumber = '+221783314605';
   const whatsappMessage = `Bonjour, je suis intéressé(e) par le véhicule ${vehicle.make} ${vehicle.model} (${vehicle.year}). Pourriez-vous m'en dire plus ?`;
 
   const formatter = new Intl.NumberFormat('fr-FR', {
@@ -162,7 +162,7 @@ export default function VehicleDetailClient({ vehicle }: { vehicle: Vehicle }) {
                                <DialogHeader>
                                    <DialogTitle className="font-headline text-2xl">Demande envoyée !</DialogTitle>
                                    <DialogDescription>
-                                       Merci pour votre intérêt. Un conseiller Innovation Automobile vous contactera très prochainement pour donner suite à votre demande.
+                                       Merci pour votre intérêt. Un conseiller Diaz  Automobile vous contactera très prochainement pour donner suite à votre demande.
                                    </DialogDescription>
                                </DialogHeader>
                                <DialogClose asChild>

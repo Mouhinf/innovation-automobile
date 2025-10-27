@@ -25,7 +25,7 @@ export default function AboutPage() {
             </CardHeader>
             <CardContent className="text-lg space-y-4 text-foreground/80">
               <p>
-                Situé à la VDN, Innovation Automobile est un parking auto proposant des voitures neuves et d'occasion à la vente et à la location. Nous exportons également des véhicules vers la sous-région.
+                Situé à Castor, Diaz  Automobile est un parking auto proposant des voitures neuves et d'occasion à la vente et à la location. Nous exportons également des véhicules vers la sous-région.
               </p>
               <p>
                 Notre parcours est marqué par une croissance constante, alimentée par la confiance de nos clients et notre dévouement à l'excellence.

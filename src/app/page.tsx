@@ -18,7 +18,7 @@ export default async function Home() {
       <section className="relative h-[70vh] flex items-center justify-center text-center text-white bg-black">
         <Image
           src="https://picsum.photos/seed/factory/1920/1080"
-          alt="Usine de montage Innovation Automobile"
+          alt="Usine de montage Diaz  Automobile"
           fill
           className="object-cover -z-10 brightness-50"
           priority
@@ -26,10 +26,10 @@ export default async function Home() {
         />
         <div className="container px-4 space-y-6">
           <h1 className="font-headline text-4xl sm:text-5xl md:text-7xl tracking-wider drop-shadow-lg">
-            Innovation Automobile: Pionnier de l'Automobile
+            Diaz  Automobile: Pionnier de l'Automobile
           </h1>
           <p className="text-lg md:text-xl max-w-4xl mx-auto drop-shadow-md">
-            Votre plateforme qui vous simplifie l'achat et la location de voiture, Innovation Automobile construit l'avenir de l'industrie automobile régionale.
+            Votre plateforme qui vous simplifie l'achat et la location de voiture, Diaz  Automobile construit l'avenir de l'industrie automobile régionale.
           </p>
            <div className="flex flex-col sm:flex-row justify-center items-center gap-4 pt-4">
             <Button asChild size="lg" className="w-full sm:w-auto">

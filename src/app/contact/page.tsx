@@ -70,7 +70,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                         <h3 className="font-semibold text-xl">Téléphone</h3>
-                        <p className="text-muted-foreground">+221 77 457 64 21</p>
+                        <p className="text-muted-foreground">+221 78 331 46 05</p>
                     </div>
                 </div>
                  <div className="flex items-start gap-4">
